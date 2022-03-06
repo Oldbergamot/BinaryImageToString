@@ -1,12 +1,12 @@
 /**
-This program transform an image into a String. The image should be in the jpg format and only contains black and white pixels.
+This program transform an image into a String. The image should be in the jpg format and only contain black and white pixels.
 It is think as an extension of the BinaryImageGenerator (https://github.com/Oldbergamot/BinaryImageGenerator).
 The result is printed into the console.
 
 How to use :
 
-1) put your image into the program folder
-2) set the size in setup according to the file size
+1) put your image into the program folder and name it image.jpg
+2) set the size in setup according to the file width and height
 3) run the program
 */
 
